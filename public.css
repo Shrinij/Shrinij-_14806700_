@@ -1,0 +1,20 @@
+/* Universal styles for all pages */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.bg-gray-200 {
+    background-color: #edf2f7;
+}
+
+h1, h2 {
+    color: #2d3748;
+}
+
+button {
+    cursor: pointer;
+}
+
+/* Additional styles if needed for specific elements */
